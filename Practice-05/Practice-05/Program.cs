@@ -13,8 +13,8 @@ namespace Practice_05
       //new StringBuilderExample().RunExample();
       //new RegexExample().RunExample();
       //new DictionaryExample().RunExample();
-      new RecursionExample().RunExample();
-      //new WinFormsExample().RunExample();
+      //new RecursionExample().RunExample();
+      new WinFormsExample().RunExample();
     }
   }
 }
